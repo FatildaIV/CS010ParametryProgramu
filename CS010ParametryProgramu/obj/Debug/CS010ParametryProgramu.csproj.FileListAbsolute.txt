@@ -1,0 +1,6 @@
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS010ParametryProgramu\CS010ParametryProgramu\bin\Debug\CS010ParametryProgramu.exe.config
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS010ParametryProgramu\CS010ParametryProgramu\bin\Debug\CS010ParametryProgramu.exe
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS010ParametryProgramu\CS010ParametryProgramu\bin\Debug\CS010ParametryProgramu.pdb
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS010ParametryProgramu\CS010ParametryProgramu\obj\Debug\CS010ParametryProgramu.csprojResolveAssemblyReference.cache
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS010ParametryProgramu\CS010ParametryProgramu\obj\Debug\CS010ParametryProgramu.exe
+C:\Users\karel.hofman\OneDrive – SPS-CL\2. ročník\1. pololetí\Programování\C#\CS010ParametryProgramu\CS010ParametryProgramu\obj\Debug\CS010ParametryProgramu.pdb
